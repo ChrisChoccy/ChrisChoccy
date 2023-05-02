@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img style="height: 10vh;" src="https://static.wikia.nocookie.net/chaos-head/images/2/29/Ayase_delusion.png/revision/latest?cb=20230408212919"/>
+  <img style="height: 140px;" src="https://static.wikia.nocookie.net/chaos-head/images/2/29/Ayase_delusion.png/revision/latest?cb=20230408212919"/>
   <div id="badges">
     <a style="text-decoration: none" href="https://twitter.com/ChrisChoccy">
       <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
