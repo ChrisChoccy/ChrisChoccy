@@ -16,6 +16,6 @@
 
 ### About Me :
 Hey, I'm CoZ's secret bonus Chris.
-- Currenty pursuing degrees in CS & Math.
+- Currently pursuing degrees in CS & Math.
 - Neovim enthusiast.
 - If you need to reach me, chrischoccy@gmail.com.
